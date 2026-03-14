@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_BASE = 'http://localhost:3001/api/journal';
+const API_BASE = 'https://arvyax-journalss.onrender.com/api/journal';
 const USER_ID = 'user_123';
 
 export default function App() {
